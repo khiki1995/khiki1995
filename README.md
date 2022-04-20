@@ -47,26 +47,8 @@
 
 <br/>
   
-  <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Khikmat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khiki1995&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khiki1995&show_icons=true&locale=en&layout=compact&theme=algolia" alt="khiki1995" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/khiki1995"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khiki1995&custom_title=Khikmat's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=khiki1995&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/khiki1995/github-readme-stats) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=khiki1995&layout=compact)](https://github.com/khiki1995/github-readme-stats)
 
 <br/>
   
