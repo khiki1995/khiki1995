@@ -29,16 +29,21 @@
 <br/>
 	
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href="https://www.golang.org" target="_blank"> 
-    <img alt="Golang" src="https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  <a href="https://www.javascript.com" target="_blank"> 
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-D00000?style=for-the-badge&logo=javascript&logoColor=white">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/Sql-2C2D72?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-  
+ <img align="left" alt="VueJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="ReactJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="NodeJS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+<img align="left" alt="HTML" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="JS" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="GIT" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="GIT" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="GIT" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="left" alt="GIT" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="GIT" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" />
+
+<br />
 
 <br/>
   
