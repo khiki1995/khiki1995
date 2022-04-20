@@ -21,10 +21,12 @@
 - 💼 I'm a Fullstack developer
 - 💬 Talk to me about development
   
-  ### 📱 Connect with me:
+📱 Connect with me:
 
 [<img align="left" alt="@khiki_shaykh | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/khiki_shaykh/)
 [<img align="left" alt="@khsheykh_pm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />](https://www.instagram.com/khsheykh_pm/)
+	
+
 	
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href="https://www.golang.org" target="_blank"> 
