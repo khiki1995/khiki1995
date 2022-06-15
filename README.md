@@ -28,7 +28,7 @@
 	
 <br/>
 	
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
  <img align="left" alt="VueJS" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="ReactJS" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
