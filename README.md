@@ -48,7 +48,8 @@
 <br/>
   
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=khiki1995&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/khiki1995/github-readme-stats) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=khiki1995&layout=compact&count_private=true)](https://github.com/khiki1995/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khiki1995&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=khiki1995&layout=compact&count_private=true)](https://github.com/khiki1995/github-readme-stats)
 
 <br/>
   
